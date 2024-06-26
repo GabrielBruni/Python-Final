@@ -79,9 +79,8 @@ GitHub es una plataforma de desarrollo colaborativo basada en Git. Permite a los
 ### Cómo actualizar `pip`
 Puedes actualizar `pip` usando el siguiente comando en tu terminal o en Git Bash:
 ```sh
-pip install --upgrade pip
+pip install --upgrade pip       #Este comando descarga e instala la última versión de `pip`.
 ```
-Este comando descarga e instala la última versión de `pip`.
 
 12. Hacer al primer commit de este trabajo y unirlo al repositorio remoto.
 13. Enviar el enlace del repositorio remoto donde tiene que tener un README.md con todos los detalles de lo que les fui mostrando en comandos, y las respuesta del punto 11 de más arriba.
